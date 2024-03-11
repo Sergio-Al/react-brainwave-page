@@ -7,6 +7,20 @@ This app contains cutting-edge stack ready to be implemented in any website.
 - React
 - Tailwind
 
+# Install
+
+- Install dependencies
+
+```
+npm run install
+```
+
+- Run the app
+
+```
+npm run dev
+```
+
 # Screenshots
 
 ### Home
