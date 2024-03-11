@@ -1,8 +1,38 @@
-# React + Vite
+# Brainwave
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app contains cutting-edge stack ready to be implemented in any website.
 
-Currently, two official plugins are available:
+# Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Tailwind
+
+# Screenshots
+
+### Home
+
+![Screenshot 1](./screenshots/screenshot1.png)
+
+### Features
+
+![Screenshot 2](./screenshots/screenshot2.png)
+
+### Services
+
+![Screenshot 3](./screenshots/screenshot3.png)
+
+### Pricing
+
+![Screenshot 4](./screenshots/screenshot4.png)
+
+### Projects
+
+![Screenshot 5](./screenshots/screenshot5.png)
+
+### Projects
+
+![Screenshot 6](./screenshots/screenshot6.png)
+
+### Mobile friendly
+
+![Screenshot 7](./screenshots/screenshot7.png)
